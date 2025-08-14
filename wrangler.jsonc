@@ -1,0 +1,5 @@
+{
+	  "name": "scms-iptv",
+    "compatibility_date": "2025-08-14",
+	  "main": "worker.js"
+}	  
