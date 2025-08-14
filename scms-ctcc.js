@@ -1,3 +1,7 @@
+/*
+四川眉山电信直播源
+10.16.1.1:811 为组播代理服务地址
+*/
 export const m3u_txt = `
 #EXTM3U
 #EXTINF:-1,CCTV-1高清
